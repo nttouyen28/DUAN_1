@@ -8,6 +8,7 @@
 <body>
     <?php 
         echo "Hi chao cau";
+        echo "Bai tap 1";
     ?>
 </body>
 </html>
